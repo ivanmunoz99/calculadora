@@ -16,7 +16,7 @@
     text-align: center;
     font-size: 2em;
 }
-#pantalla .visualizacion{
+#pantalla #visualizacion{
     width: 100vw;
     height: 45vh;
     border: 1px solid #000;
@@ -32,47 +32,47 @@
     grid-row-start: 2;
     margin-left: 10%;
 }
-.numeros .cero{
+.numeros #cero{
     width: 40px;
     height: 40px;
 }
-.numeros .uno{
+.numeros #uno{
     width: 40px;
     height: 40px;
 }
-.numeros .dos{
+.numeros #dos{
     width: 40px;
     height: 40px;
 }
-.numeros .tres{
+.numeros#.tres{
     width: 40px;
     height: 40px;
 }
-.numeros .cuatro{
+.numeros #cuatro{
     width: 40px;
     height: 40px;
 }
-.numeros .cinco{
+.numeros #cinco{
     width: 40px;
     height: 40px;
 }
-.numeros .seis{
+.numeros #seis{
     width: 40px;
     height: 40px;
 }
-.numeros .siete{
+.numeros #siete{
     width: 40px;
     height: 40px;
 }
-.numeros .ocho{
+.numeros #ocho{
     width: 40px;
     height: 40px;
 }
-.numeros .nueve{
+.numeros #nueve{
     width: 40px;
     height: 40px;
 }
-.numeros .punto{
+.numeros #punto{
     width: 40px;
     height: 40px;
     font-size: 2em;
@@ -82,17 +82,17 @@
     flex-wrap: wrap;
     justify-content: space-around;
 }
-.acciones .reiniciar{
+.acciones #reiniciar{
     height: 40px;
     width: 40px;
     margin-top: 7%;
 }
-.acciones .division{
+.acciones #division{
     margin-top: 7%;
     width: 40px;
     height: 40px;
 }
-.acciones .borrar{
+.acciones #borrar{
     margin-top: 7%;
     width: 40px;
     height: 40px;
@@ -103,19 +103,19 @@
     justify-content: space-around;
     grid-row-start: 2;
 }
-.acciones2 .multi{
+.acciones2 #multi{
     width: 40px;
     height: 40px;
 }
-.acciones2 .suma{
+.acciones2 #suma{
     width: 40px;
     height: 40px;
 }
-.acciones2 .resta{
+.acciones2 #resta{
     width: 40px;
     height: 40px;
 }
-.acciones2 .igual{
+.acciones2 #igual{
     width: 40px;
     height: 40px;
     border-radius: 50%;
@@ -150,101 +150,101 @@
         height: 30vh;
         margin-top: 70%;
     }
-    .acciones .reiniciar{
+    .acciones #reiniciar{
         height: 80px;
         width: 80px;
         margin-top: 7%;
         font-size: 2em;
     }
-    .acciones .division{
+    .acciones #division{
         margin-top: 7%;
         width: 80px;
         height: 80px;
         font-size: 2em;
     }
-    .acciones .borrar{
+    .acciones #borrar{
         margin-top: 7%;
         width: 80px;
         height: 80px;
         font-size: 2em;
     }
-    .acciones2 .multi{
+    .acciones2 #multi{
         width: 80px;
         height: 80px;
         font-size: 2em;
     }
-    .acciones2 .suma{
+    .acciones2 #suma{
         width: 80px;
         height: 80px;
         font-size: 2em;
     }
-    .acciones2 .resta{
+    .acciones2 #resta{
         width: 80px;
         height: 80px;
         font-size: 2em;
     }
-    .acciones2 .igual{
+    .acciones2 #igual{
         width: 200px;
         height: 80px;
         border-radius: 20px;
         font-size: 2em;
     }
-    .numeros .cero{
+    .numeros #cero{
         width: 80px;
         height: 80px;
         font-size: 2em;
     }
-    .numeros .uno{
+    .numeros #uno{
         width: 80px;
         height: 80px;
         font-size: 2em;
     }
-    .numeros .dos{
+    .numeros #dos{
         width: 80px;
         height: 80px;
         font-size: 2em;
     }
-    .numeros .tres{
+    .numeros #tres{
         width: 80px;
         height: 80px;
         font-size: 2em;
     }
-    .numeros .cuatro{
+    .numeros #cuatro{
         width: 80px;
         height: 80px;
         font-size: 2em;
     }
-    .numeros .cinco{
+    .numeros #cinco{
         width: 80px;
         height: 80px;
         font-size: 2em;
     }
-    .numeros .seis{
+    .numeros #seis{
         width: 80px;
         height: 80px;
         font-size: 2em;
     }
-    .numeros .siete{
+    .numeros #siete{
         width: 80px;
         height: 80px;
         font-size: 2em;
     }
-    .numeros .ocho{
+    .numeros #ocho{
         width: 80px;
         height: 80px;
         font-size: 2em;
     }
-    .numeros .nueve{
+    .numeros #nueve{
         width: 80px;
         height: 80px;
         font-size: 2em;
     }
-    .numeros .punto{
+    .numeros #punto{
         width: 80px;
         height: 80px;
         font-size: 4em;
     }
-    .numeros .nocturno{
+    .numeros #nocturno{
         width: 60px;
         height: 60px;
         font-size: 2em;
