@@ -10,7 +10,7 @@ function init() {
     let multi = document.getElementById("multi");
     let division = document.getElementById("division");
     let igual = document.getElementById("igual");
-    let punto = document.ggetElementById("punto");
+    let punto = document.getElementById("punto");
     let nocturno = document.getElementById("nocturno");
     let cero = document.getElementById("cero");
     let uno = document.getElementById("uno");
