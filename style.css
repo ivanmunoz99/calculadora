@@ -22,6 +22,10 @@
     border: 1px solid #000;
     margin: auto;
 }
+.modoOscuro{
+    background-color: #000;
+    color: white;
+}
 /*--------------------------------------------------------------------*/
 #teclas{
     display: grid;

@@ -111,3 +111,7 @@ function resolver() {
     resetear();
     visualizacion.textContent = res;
 }
+function oscuro(){
+    let elemento = document.body;
+    elemento.classList.toggle("modoOscuro");
+}
