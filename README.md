@@ -18,4 +18,22 @@
 - ![image](https://user-images.githubusercontent.com/114447994/200443733-0dd8a6e0-3d96-4b1c-8444-0a8a51b110c9.png)
 - se estruturo primero el responsive en movil y despues desktop comentados respectivamente en el css
 - responsive : 320 px y 1024 px
+- el posicionamiento de los botones esta por un display: grid.
+- ![image](https://user-images.githubusercontent.com/114447994/200446243-c74ae3d2-0687-4864-8f02-d817d9ce2648.png)
 
+# JavaScript
+- tienes tres variables para operarlas despues
+- ![image](https://user-images.githubusercontent.com/114447994/200446657-035965e4-913a-419f-9804-50eede22c040.png)
+- dentro de la funcion init se crearon las variables de los botones los cuales se llaman desde el id del bonton en el html
+- ![image](https://user-images.githubusercontent.com/114447994/200446943-b64bb244-af0a-4fb9-8f3e-0291b64de6b1.png)
+- se llamaron los botones con un evento para que dentro de la función se pudieran visualizar y concatenar con el string correspondiente al boton 
+- ![image](https://user-images.githubusercontent.com/114447994/200447221-1549ef60-15ed-42e9-8f63-451a7adf8cbc.png)
+- para las opraciones se les asigno el evento y se llamanron las variables creadas desde el inicio 
+- ![image](https://user-images.githubusercontent.com/114447994/200447723-fb7051f8-97ca-404b-ac44-0b863434024f.png)
+- para poder reolver las opraciones se creo la función resolver con una variable 'res' para que opere dependiendo el caso si es suma, ,ultiplicación, resta ...etc
+- ![image](https://user-images.githubusercontent.com/114447994/200448999-77340576-8968-4099-8cf4-c9b812336073.png)
+- la función 'oscuro' es para poder agregar el modo nocturno de la calculadora, alterna entre la clase modoOscuro del css 
+- ![image](https://user-images.githubusercontent.com/114447994/200449605-175a2956-480c-47ec-b927-875a6d2a4aef.png)
+
+# Tipofrafias
+- calculator
